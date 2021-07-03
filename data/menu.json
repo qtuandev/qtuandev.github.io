@@ -1,0 +1,100 @@
+{
+    "primaryMenu": [
+        {
+            "text": "Homepage",
+            "url": "/",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Homepage Default",
+                    "url": "/"
+                },
+                {
+                    "text": "Homepage Grid",
+                    "url": "/homes/home-grid"
+                },
+                {
+                    "text": "Homepage Grid With Sidebar",
+                    "url": "/homes/home-grid-with-sidebar"
+                },
+                {
+                    "text": "Homepage Minimalist",
+                    "url": "/homes/home-minimalist"
+                }
+            ]
+        },
+        {
+            "text": "Blog Layout",
+            "url": "/blog",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "Classic Layout",
+                    "url": "/blog/classic-layout-left",
+                    "extraClass": "menu-item-has-children",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Classic Layout Left",
+                            "url": "/blog/classic-layout-left"
+                        },
+                        {
+                            "text": "Classic Layout Right",
+                            "url": "/blog/classic-layout-right"
+                        },
+                        {
+                            "text": "Classic Layout Fullwidth",
+                            "url": "/blog/classic-layout-fullwidth"
+                        }
+                    ]
+                },
+                {
+                    "text": "Grid Layout",
+                    "url": "/blog",
+                    "extraClass": "menu-item-has-children",
+                    "subClass": "sub-menu",
+                    "subMenu": [
+                        {
+                            "text": "Grid Layout Left",
+                            "url": "/blog/grid-layout-left"
+                        },
+                        {
+                            "text": "Grid Layout Right",
+                            "url": "/blog/grid-layout-right"
+                        },
+                        {
+                            "text": "Grid Layout Fullwidth",
+                            "url": "/blog/grid-layout-fullwidth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "text": "Pages",
+            "url": "/page/about-us",
+            "extraClass": "menu-item-has-children",
+            "subClass": "sub-menu",
+            "subMenu": [
+                {
+                    "text": "About Us",
+                    "url": "/page/about-us"
+                },
+                {
+                    "text": "Contact us",
+                    "url": "/page/contact-us"
+                }
+            ]
+        },
+        {
+            "text": "About Us",
+            "url": "/page/about-us"
+        },
+        {
+            "text": "Contact us",
+            "url": "/page/contact-us"
+        }
+    ]
+}
